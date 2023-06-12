@@ -1,0 +1,32 @@
+{
+  "name": "calsoftnftmint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.4.0",
+    "@chainlink/test-helpers": "^0.0.7-alpha",
+    "@chainlink/token": "^1.1.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "buffer": "^6.0.3",
+    "chai": "^4.3.7",
+    "hardhat": "^2.15.0",
+    "ipfs-http-client": "^60.0.1",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.10",
+    "web3": "^4.0.1",
+    "web3modal": "^1.9.12"
+  },
+  "dependencies": {
+    "erc721a": "^4.2.3",
+    "fs": "^0.0.1-security"
+  }
+}
